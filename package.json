@@ -1,0 +1,14 @@
+{
+  "name": "mystic_rose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andy Krivovjas",
+  "license": "MIT",
+  "dependencies": {
+    "p5": "^0.5.7"
+  }
+}
